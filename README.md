@@ -7,8 +7,8 @@ The data this week comes from [SOURCE_OF_DATA](https://en.wikipedia.org/wiki/Lis
 
 The dataset included was mined from all 50 states, tidying column names, binding and aggregating. 
 
-The difficulty is many genres that overlap, which would make a good tidytuesday challenge using library(strings). 
+The difficulty is many genres that overlap, which would make a good tidytuesday challenge using library(stringr). 
 
 Data is interesting, as genre popularity differs by state/city, also interesting to plot spatially. 
 
-Credit: [Frank Hull](@frankiethull)
+Credit: [Frank Hull](twitter.com/frankiethull)
