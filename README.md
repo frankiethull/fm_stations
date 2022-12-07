@@ -11,4 +11,9 @@ The difficulty is many genres that overlap, which would make a good tidytuesday 
 
 Data is interesting, as genre popularity differs by state/city, also interesting to plot spatially. 
 
+# accepted as tidytuesday's week #45 2022 challenge, see below:
+https://github.com/rfordatascience/tidytuesday
+
+
+
 Credit: [Frank Hull](twitter.com/frankiethull)
